@@ -44,3 +44,14 @@ Google Cloud Platform offers services like **Vertex AI** and access **PaLM 2 API
 
 - [Attention is all you need](https://arxiv.org/pdf/1706.03762.pdf) - Original paper from Google introducing the Transformer
 - [An In-Depth Look at the Transformer Based Models](https://medium.com/@yulemoon/an-in-depth-look-at-the-transformer-based-models-22e5f5d17b6b) - Overview of the diferent types of Transformers
+
+## Playground
+
+# Most popular
+- [Google Bard](https://bard.google.com) - based on PaLM 2 by Google (uses external tools including Google Search)
+- [Claude](https://claude.ai/) - based on claude 2 by Anthropic (isolated, data cutout 2023, 100K context)
+- [ChatGPT](https://chat.openai.com) - based on GPT by OpenAI (free version isolated, data cutout 2021)
+
+# All-in-one (multiple models in one interface)
+- [Poe](https://poe.com/) - Access to ChatGPT/GPT, Claude, Llama and PaLM 2 models.
+- [Nat.dev](https://nat.dev/) - Most number of models. Access to all previous models and many more including open source.
