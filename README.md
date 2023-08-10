@@ -39,3 +39,8 @@ Google Cloud Platform offers services like **Vertex AI** and access **PaLM 2 API
 ## How-Tos
 
 - [Integrating Vertex AI into Angular Apps](https://docs.google.com/document/d/1wi7rvFp1yfYVDmnpEK8Q1njhIp8amcJKdGO4YrAAkMc/edit?usp=sharing) - Angular guide using Google Cloud SDK + HttpClient
+
+## Transformer Architecture
+
+- [Attention is all you need](https://arxiv.org/pdf/1706.03762.pdf) - Original paper from Google introducing the Transformer
+- [An In-Depth Look at the Transformer Based Models](https://medium.com/@yulemoon/an-in-depth-look-at-the-transformer-based-models-22e5f5d17b6b) - Overview of the diferent types of Transformers
