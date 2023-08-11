@@ -38,6 +38,7 @@ Google Cloud Platform offers services like **Vertex AI** and access **PaLM 2 API
 - [Talk. OpenAI and the AI that may overtake humans (50min)](https://www.youtube.com/watch?v=Z6KqBb451fE) - Talk on GPT-3 at JFokus 2022
 
 - [How to generate text](https://huggingface.co/blog/how-to-generate) - Explains Temperature, TopK, TopP parameters.
+- [Top-k & Top-p](https://docs.cohere.com/docs/controlling-generation-with-top-k-top-p) - Visual explanation for TopK and TopP
 
 ## How-Tos
 
