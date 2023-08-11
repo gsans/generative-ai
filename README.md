@@ -37,6 +37,8 @@ Google Cloud Platform offers services like **Vertex AI** and access **PaLM 2 API
 
 - [Talk. OpenAI and the AI that may overtake humans (50min)](https://www.youtube.com/watch?v=Z6KqBb451fE) - Talk on GPT-3 at JFokus 2022
 
+- [How to generate text](https://huggingface.co/blog/how-to-generate) - Explains Temperature, TopK, TopP parameters.
+
 ## How-Tos
 
 - [Integrating Vertex AI into Angular Apps](https://docs.google.com/document/d/1wi7rvFp1yfYVDmnpEK8Q1njhIp8amcJKdGO4YrAAkMc/edit?usp=sharing) - Angular guide using Google Cloud SDK + HttpClient
