@@ -49,7 +49,7 @@ Google Cloud Platform offers services like **Vertex AI** and access **PaLM 2 API
 - [Attention is all you need](https://arxiv.org/pdf/1706.03762.pdf) - Original paper from Google introducing the Transformer
 - [An In-Depth Look at the Transformer Based Models](https://medium.com/@yulemoon/an-in-depth-look-at-the-transformer-based-models-22e5f5d17b6b) - Overview of the diferent types of Transformers
 
-## Playground
+## Playground (play with LLMs available for free)
 
 ### Most popular
 - [Google Bard](https://bard.google.com) - based on PaLM 2 by Google (uses external tools including Google Search)
