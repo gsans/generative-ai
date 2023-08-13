@@ -25,9 +25,9 @@ Google Cloud Platform offers services like **Vertex AI** and access **PaLM 2 API
 
 ## Courses 
 
-- [Generative AI with AutoML & Vertex AI Specialization](https://www.cloudskillsboost.google/quests/299) on Cloud Skills Boost ($3)
+- [Generative AI Explorer - Vertex AI](https://www.cloudskillsboost.google/quests/299) introduction to prompt design, Generative AI Studio and Vertex AI on Cloud Skills Boost (cost: $3 or 3 credits)
 
-- [Generate synthetic data with Vertex AI](https://www.cloudskillsboost.google/journeys/118) free course on Cloud Skills Boost
+- [Generative AI learning path by Google Cloud](https://www.cloudskillsboost.google/journeys/118) 10x individual courses on Cloud Skills Boost (free)
 
 ## Talks & Articles
 
