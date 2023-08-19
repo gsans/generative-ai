@@ -31,7 +31,7 @@ Google Cloud Platform offers services like **Vertex AI** and access **PaLM 2 API
 
 ## Talks & Articles
 
-- [Everything you need to know about Google's new Generative AI platform](https://www.youtube.com/watch?v=JtULDpWH-I0) - In this talk, you are going to learn about Google's new Generative AI platform Vertex AI, the latest tools and APIs to foundational models
+- [Talk. Everything you need to know about Google's new Generative AI platform](https://www.youtube.com/watch?v=JtULDpWH-I0) - In this talk, you are going to learn about Google's new Generative AI platform Vertex AI, the latest tools and APIs to foundational models
 
 - [Keynote. How OpenAI Codex learned to write and refactor JavaScript](https://www.youtube.com/watch?v=FwRtzlYINrA&t=1s) - Introduction to Codex a LLM specialised around code
 
