@@ -31,6 +31,8 @@ Google Cloud Platform offers services like **Vertex AI** and access **PaLM 2 API
 
 ## Talks & Articles
 
+- [Everything you need to know about Google's new Generative AI platform](https://www.youtube.com/watch?v=JtULDpWH-I0) - In this talk, you are going to learn about Google's new Generative AI platform Vertex AI, the latest tools and APIs to foundational models
+
 - [Keynote. Will chatGPT take your job? The rise of conversational AIs (25min)](https://www.youtube.com/watch?v=qG9l6QPjbN4) - Introduction to ChatGPT and GPT models
 
 - [Article. The Start of a New Era in AI](https://gerard-sans.medium.com/openai-the-start-of-a-new-era-in-ai-1eef98d0e2a3) - Podcast on generative AI and its future impact
@@ -42,6 +44,7 @@ Google Cloud Platform offers services like **Vertex AI** and access **PaLM 2 API
 
 ## How-Tos
 
+- [Getting Started with Generative AI in Angular](https://gerard-sans.medium.com/getting-started-with-generative-ai-in-angular-b72737a59982) - General guide around how to get started with Vertex AI and PaLM 2 APIs using Angular
 - [Integrating Vertex AI into Angular Apps](https://docs.google.com/document/d/1wi7rvFp1yfYVDmnpEK8Q1njhIp8amcJKdGO4YrAAkMc/edit?usp=sharing) - Angular guide using Google Cloud SDK + HttpClient
 
 ## Transformer Architecture
