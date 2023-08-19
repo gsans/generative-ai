@@ -46,8 +46,8 @@ Google Cloud Platform offers services like **Vertex AI** and access **PaLM 2 API
 
 ## How-Tos
 
-- [Getting Started with Generative AI in Angular](https://gerard-sans.medium.com/getting-started-with-generative-ai-in-angular-b72737a59982) - General guide around how to get started with Vertex AI and PaLM 2 APIs using Angular
-- [Integrating Vertex AI into Angular Apps](https://docs.google.com/document/d/1wi7rvFp1yfYVDmnpEK8Q1njhIp8amcJKdGO4YrAAkMc/edit?usp=sharing) - Angular guide using Google Cloud SDK + HttpClient
+- [Blogpost. Getting Started with Generative AI in Angular](https://gerard-sans.medium.com/getting-started-with-generative-ai-in-angular-b72737a59982) - General guide around how to get started with Vertex AI and PaLM 2 APIs using Angular
+- [Notes. Integrating Vertex AI into Angular Apps](https://docs.google.com/document/d/1wi7rvFp1yfYVDmnpEK8Q1njhIp8amcJKdGO4YrAAkMc/edit?usp=sharing) - Angular guide using Google Cloud SDK + HttpClient
 
 ## Transformer Architecture
 
