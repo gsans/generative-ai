@@ -23,6 +23,11 @@ Google Cloud Platform offers services like **Vertex AI** and access **PaLM 2 API
 - [generative-ai repository](https://github.com/GoogleCloudPlatform/generative-ai/) by Google Cloud - examples and tools for using Vertex AI generative models
 - [generative-ai web demos](https://github.com/google/generative-ai-docs/tree/main/demos/palm/web) by Google - sample web projects implementing whole generative ai features using PaLM 2
 
+## Google PaLM API
+
+- [GraphQL wrapper of PaLM API (v1beta2) using Apollo Server (v4.9)](https://codesandbox.io/p/sandbox/eager-monad-fj2l8l?file=%2Fsrc%2Findex.ts%3A13%2C12)
+- [Angular client (v16) for GraphQL PaLM API (v1beta2)](https://stackblitz.com/edit/stackblitz-starters-xkwxnp?file=src%2Fmain.ts)
+
 ## Courses 
 
 - [Generative AI Explorer - Vertex AI](https://www.cloudskillsboost.google/quests/299) introduction to prompt design, Generative AI Studio and Vertex AI on Cloud Skills Boost (cost: $3 or 3 credits)
