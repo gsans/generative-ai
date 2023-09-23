@@ -26,8 +26,8 @@ Google Cloud Platform offers services like **Vertex AI** and access **PaLM 2 API
 
 ## Google PaLM2 REST API
 
-- [GraphQL wrapper of PaLM2 API (v1beta2) using Apollo Server (v4.9)](https://codesandbox.io/p/sandbox/eager-monad-fj2l8l?file=%2Fsrc%2Findex.ts%3A13%2C12)
-- [Angular client (v16) for GraphQL PaLM API (v1beta2)](https://stackblitz.com/edit/stackblitz-starters-xkwxnp?file=src%2Fmain.ts)
+- [GraphQL wrapper of PaLM2 REST API (v1beta2) using Apollo Server (v4.9)](https://codesandbox.io/p/sandbox/eager-monad-fj2l8l?file=%2Fsrc%2Findex.ts%3A13%2C12)
+- [Angular client (v16) for GraphQL PaLM2 REST API (v1beta2)](https://stackblitz.com/edit/stackblitz-starters-xkwxnp?file=src%2Fmain.ts)
 
 ## Courses 
 
