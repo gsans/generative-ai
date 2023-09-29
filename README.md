@@ -54,6 +54,7 @@ Google Cloud Platform offers services like **Vertex AI** and access **PaLM 2 API
 
 - [Blogpost. Getting Started with Generative AI in Angular](https://gerard-sans.medium.com/getting-started-with-generative-ai-in-angular-b72737a59982) - General guide around how to get started with Vertex AI and PaLM 2 APIs using Angular
 - [Notes. Integrating Vertex AI into Angular Apps](https://docs.google.com/document/d/1wi7rvFp1yfYVDmnpEK8Q1njhIp8amcJKdGO4YrAAkMc/edit?usp=sharing) - Angular guide using Google Cloud SDK + HttpClient
+- [GitHub. Mini-Bard Angular client using Palm2 API (via API key and MakerSuite)](https://github.com/gsans/mini-bard-palm2-angular) - Angular client demonstrating an advanced client with Rich Text Media support and ElevenLabs natural voices.
 
 ## Transformer Architecture
 
